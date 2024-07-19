@@ -35,7 +35,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://your-frontend-domain.vercel.app",
+    "https://evobuz-vendor.vercel.app",
     "http://localhost:3000",
 ]
 
