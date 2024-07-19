@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.sqlite3
+
+# Ignore the frontend folder entirely
+evobuz-vendor/
+
+# General
+.env
+.DS_Store
